@@ -20,3 +20,9 @@ Developer, Server Administation, Modern Apps + Websites
 
 ### Contact
 - Email: meqxs1@gmail.com
+
+
+### Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=maxk&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxk&layout=compact&theme=tokyonight)
