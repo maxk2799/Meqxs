@@ -1,8 +1,8 @@
 # Hi, I'm Max 👋
 
-💻 Developer & Minecraft Modder
+Developer, Server Administation, Modern Apps + Websites
 
-### Tools & Technologies
+### Stuff I know
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -15,9 +15,8 @@
 - Minecraft mod/plugin developer
 - Learning iOS development with Xcode & Swift
 - Building random tools, apps, and game projects
-
-### Projects
-- PvpHub → https://github.com/maxk/PvpHub
+- Builidng modern apps
+- Building modern websites
 
 ### Contact
 - Email: meqxs1@gmail.com
