@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-🚀 **Click this to go to my website**:  
-[![Visit My Site](https://img.shields.io/badge/visit-meqxs.devz%2F-green?style=for-the-badge)](https://meqxs.dev)
 
 💻 **Skills & Tools**
 - 🌐 Frontend: HTML, CSS (some), JavaScript
