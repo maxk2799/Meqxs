@@ -24,14 +24,9 @@ Developer, Server Administation, Modern Apps + Websites
 ---
 
 ### My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxk2799&show_icons=true&theme=tokyonight" alt="Max's Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxk2799&theme=tokyonight" alt="Max's Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=maxk2799&theme=dark" alt="3D Contrib Graph" />
+ithub-profile-3d-contrib.vercel.app/api?username=maxk2799&theme=dark" alt="3D Contrib Graph" />
 </p>
